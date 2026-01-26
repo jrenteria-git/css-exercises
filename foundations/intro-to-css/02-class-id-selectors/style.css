@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+p {
+    font-family: Verdana, "DejaVu sans", sans-serif;
+    background-color: #FF9191;
+    
+}
+/* blue text and a font size of 36px */
+#two {
+    color: blue;
+    font-size: 36px;
+}
+/* For third element, in addition to the styles for all odd numbered elements, add a font size of 24px */
+.odd.cooler {
+    font-size: 24px;
+}
+/* a light green background, a font size of 24px, and bold */
+#four {
+    background-color: #C3FFBD;
+    font-size: 24px;
+    font-weight: bold;
+}
